@@ -1,0 +1,18 @@
+# Virtual environment (reinstall with: pip install -r requirements.txt)
+venv/
+.venv/
+
+# Python cache / bytecode
+__pycache__/
+*.pyc
+
+# Runtime-generated output (recreated when you run the app)
+results.csv
+history.csv
+
+# Editor/IDE settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
